@@ -96,4 +96,4 @@ var fight = function() {
     
 };
 
-fight();
+//fight();
